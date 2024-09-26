@@ -1,23 +1,24 @@
 ﻿# Astronaut-Daily-Schedule-Organizer
 
-Description<br>
-This project is a console-based application designed to help astronauts manage their daily tasks efficiently while in space. The Astronaut Daily Schedule Organizer allows users to add, remove, view, and edit tasks, each with a description, start and end times, and a priority level. It implements fundamental CRUD (Create, Read, Update, Delete) operations and uses several design patterns to ensure robust data management and user interaction.
+### Description
+The **Astronaut Daily Schedule Organizer** is a console-based application designed to help astronauts manage their daily tasks efficiently while in space. This project allows astronauts to organize their schedules seamlessly by **adding**, **removing**, **viewing**, and **editing tasks**. Each task includes a description, start and end times, and a priority level (**High**, **Medium**, or **Low**).  
+With built-in **CRUD** (Create, Read, Update, Delete) functionality and various design patterns, the application ensures robust data management and a smooth user experience.
 
+### Features
 
-Features
-Task Management: Users can add, remove, edit, and view tasks.<br>
-Time Validation: Ensures that tasks are scheduled with valid times and do not overlap with existing tasks.<br>
-Priority Levels: Tasks can be assigned a priority of High, Medium, or Low.<br>
-Task Completion: Tasks can be marked as completed.<br>
-Sorting:         Tasks are viewed sorted by their start time.<br>
-Error Handling:  The application provides error messages for invalid operations and handles exceptions gracefully.<br>
-Logging:         Implements a basic logging mechanism to track application usage and errors.<br>
+- **Task Management**: Easily add, remove, edit, and view tasks.  
+- **Time Validation**: Ensures valid task scheduling without overlapping times.  
+- **Priority Levels**: Assign tasks with priority levels such as **High**, **Medium**, or **Low**.  
+- **Task Completion**: Mark tasks as completed once finished.  
+- **Sorting**: View tasks sorted by their start time for better organization.  
+- **Error Handling**: Clear error messages and graceful exception handling for invalid operations.  
+- **Logging**: Basic logging mechanism to track application usage and errors.
 
-Technologies<br>
-Java: The entire application is written in Java, emphasizing object-oriented programming practices.<br>
+### Technologies
 
+- **Java**: The application is fully written in Java, utilizing object-oriented programming concepts.
 
-How to Run<br>
+### How to Run
 Clone the Repository: git clone [repository-url]<br>
 Navigate to the src Directory: cd AstronautScheduler/src<br>
 Compile the Java Files: javac *.java<br>
