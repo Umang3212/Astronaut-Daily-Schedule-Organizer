@@ -19,11 +19,11 @@ With built-in **CRUD** (Create, Read, Update, Delete) functionality and various 
 - **Java**: The application is fully written in Java, utilizing object-oriented programming concepts.
 
 ### How to Run
-Clone the Repository: git clone [repository-url]<br>
-Navigate to the src Directory: cd AstronautScheduler/src<br>
-Compile the Java Files: javac *.java<br>
-Run the Application: java Main<br>
+- **Clone the Repository**: git clone [repository-url]<br>
+- **Navigate to the src Directory**: cd AstronautScheduler/src<br>
+- **Compile the Java Files**: javac *.java<br>
+- **Run the Application**: java Main<br>
 
-How to Use<br>
+### How to Use
 After starting the application, users are presented with a menu to choose from adding a task, removing a task, viewing all tasks, editing a task, marking a task as completed, or exiting the program.<br>
 Users interact with the application via the console, entering details as prompted.
